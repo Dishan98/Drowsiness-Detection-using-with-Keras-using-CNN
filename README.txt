@@ -1,9 +1,4 @@
-AI ASSIGNMENT - Drowsiness Detection using with Keras using Convolutional Neural Networks (CNN).
-
-Name - HGD Chamika 
-Reg No - D/BCS/19/0012
-
-Project video is included.
+Drowsiness Detection using with Keras using Convolutional Neural Networks (CNN).
 
 To run the application, open the "drowsiness detetction.py" in a python ide and run the program.
 
